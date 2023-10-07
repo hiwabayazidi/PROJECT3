@@ -1,0 +1,52 @@
+.P1{
+    font-size: 45PX;
+    border: 5PX outset red;
+    border-radius: 20px;
+    text-align: center;
+    text-shadow: 3px 3px 5px rgb(249, 2, 2);
+}
+body{
+    background-image: url("1.jpg");
+    background-repeat: no-repeat;
+    background-position: 180px 20px;
+    background-attachment: fixed;
+}
+.p2{
+    font-size: 70px;
+}
+.p3{
+    font-size: 40px;
+    border: 8px solid red;
+    border-radius: 20px;
+}
+.p4{
+    font-size: 60px; color: seagreen;
+    text-shadow: 2px 2px 4px rgb(255, 237, 43);
+    text-align: center;
+}
+.p5{
+    color: rgb(91, 90, 90); font-size: 30px;
+    border: 5px outset rgb(149, 222, 4);
+    text-align: justify;
+    
+}
+.p6{
+    font-size: 60px; color: orange;
+    text-shadow: 3px 3px 7px rgb(61, 61, 253);
+    text-align: center;
+}
+.p7{
+    color: rgb(91, 90, 90);font-size: 30px;
+    border: 5px outset rgb(253, 178, 40);
+    text-align: justify;
+}
+.p8{
+    color: rgb(1, 207, 207); font-size: 60px;
+    text-align: center;
+    text-shadow: 3px 3px 5px rgb(255, 0, 174);
+}
+.p9{
+    color: rgb(89, 89, 89); font-size: 30px;
+    border: 5px outset rgb(213, 3, 154);
+    text-align: justify;
+}
